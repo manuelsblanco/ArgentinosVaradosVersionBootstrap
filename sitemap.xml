@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://www.argentinosvarados.com/index.html</loc>
+  <lastmod>2020-05-26T18:55:09+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.argentinosvarados.com/donaciones.html</loc>
+  <lastmod>2020-05-26T18:54:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.argentinosvarados.com/noticias.html</loc>
+  <lastmod>2020-05-26T18:55:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.argentinosvarados.com/peticiones.html</loc>
+  <lastmod>2020-05-26T18:54:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.argentinosvarados.com/varados.pdf</loc>
+  <lastmod>2020-05-26T15:55:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
